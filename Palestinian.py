@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 
 
 
-df=pd.read_csv(r'C:\My Career\AI _Data Science\My Work\Excel&power pi\freepalestine\fatalities_isr_pse_conflict_2000_to_2023Edited.csv')
+df=pd.read_csv("fatalities_isr_pse_conflict_2000_to_2023Edited.csv")
 
 
 st.set_page_config(page_title='Fatalities in the Israeli-Palestinian',page_icon="🇵🇸",
